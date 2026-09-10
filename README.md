@@ -1,5 +1,4 @@
 <div align="center">
-  <!-- Cambia header.jpg por el enlace real de tu imagen -->
   <img src="header.jpeg" alt="Heidi Lo-Fi Workspace" width="100%" />
 </div>
 
@@ -79,16 +78,16 @@
 <br>
 
 <div align="center">
-  <!-- Replace YOUR_GITHUB_USERNAME in ALL 3 links below -->
+  <!-- Aquí ya está corregido tu usuario en el "src" para que se generen tus imágenes -->
   <a href="https://github.com/heidie-oyarzabal">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=150A21&title_color=C77DFF&text_color=A78BFA&icon_color=E879F9" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=heidie-oyarzabal&show_icons=true&hide_border=true&bg_color=150A21&title_color=C77DFF&text_color=A78BFA&icon_color=E879F9" alt="GitHub Stats" width="48%" />
   </a>
   <a href="https://github.com/heidie-oyarzabal">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=150A21&title_color=C77DFF&text_color=A78BFA" alt="Top Languages" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heidie-oyarzabal&layout=compact&hide_border=true&bg_color=150A21&title_color=C77DFF&text_color=A78BFA" alt="Top Languages" width="48%" />
   </a>
   <br><br>
   <a href="https://github.com/heidie-oyarzabal">
-    <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&background=150A21&border=150A21&stroke=C77DFF&ring=C77DFF&fire=C77DFF&currStreakNum=A78BFA&sideNums=A78BFA&currStreakLabel=C77DFF&sideLabels=C77DFF&dates=A78BFA&hide_border=true" alt="GitHub Streak" width="97%" />
+    <img src="https://streak-stats.demolab.com?user=heidie-oyarzabal&background=150A21&border=150A21&stroke=C77DFF&ring=C77DFF&fire=C77DFF&currStreakNum=A78BFA&sideNums=A78BFA&currStreakLabel=C77DFF&sideLabels=C77DFF&dates=A78BFA&hide_border=true" alt="GitHub Streak" width="97%" />
   </a>
 </div>
 
@@ -98,7 +97,8 @@
   <a href="mailto:heidiedithoyarzaballozada@gmail.com">
     <img src="https://img.shields.io/badge/Email-2D1B4E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="www.linkedin.com/in/heidi-oyarzabal">
+  <!-- Agregué el https:// al enlace de LinkedIn -->
+  <a href="https://www.linkedin.com/in/heidi-oyarzabal">
     <img src="https://img.shields.io/badge/LinkedIn-2D1B4E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
