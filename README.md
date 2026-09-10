@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Cambia header.jpg por el enlace real de tu imagen -->
-  <img src="header.jpg" alt="Heidi Lo-Fi Workspace" width="100%" />
+  <img src="header.jpeg" alt="Heidi Lo-Fi Workspace" width="100%" />
 </div>
 
 <div align="center">
